@@ -1,0 +1,501 @@
+ID,Name,Age,Gender,Native Language,Interests,Cleanliness Level,Sleeping Level,Smoking,Drinking,Cooking Level,Introvert Level,Extrovert Level,Intrest In Music,Intrest In Dance,Intrest In Physical Activities,Exercise Habits,Intrest in Gaming,IsWorking
+1,Jatin Nair,20,Female,English,Music,5,1,0,1,1,5,4,4,2,3,1,5,1
+2,Xena Pandey,35,Male,Spanish,Sports,3,5,1,0,5,5,2,3,1,4,5,2,1
+3,Deepak Yadav,16,Male,Hindi,Cooking,4,5,1,0,5,1,5,2,2,1,5,4,1
+4,Aakash Chopra,35,Female,Spanish,Cooking,5,1,1,0,1,1,1,1,3,5,5,4,0
+5,Tina Gupta,34,Male,English,Traveling,2,5,0,0,3,2,2,3,2,3,5,1,0
+6,Manoj Kapoor,27,Female,Mandarin,Music,1,5,0,0,2,1,1,4,5,5,1,2,0
+7,Tina Verma,19,Male,Spanish,Music,4,2,0,1,1,3,2,4,1,1,1,1,0
+8,Esha Dutta,47,Male,English,Technology,2,5,0,0,2,1,2,5,3,2,5,4,0
+9,Farhan Malhotra,31,Female,Spanish,Reading,5,5,0,0,2,5,1,2,4,2,1,1,0
+10,Qasim Iyer,24,Female,Mandarin,Music,1,4,1,0,2,5,4,3,4,3,1,1,0
+11,Ravi Singh,45,Male,English,Cooking,1,3,0,0,2,3,3,4,1,5,5,3,0
+12,Chitra Joshi,25,Female,English,Nature,1,4,0,0,5,2,5,2,1,2,4,4,0
+13,Manoj Yadav,39,Female,Japanese,Music,1,5,0,0,2,3,5,3,2,5,4,1,0
+14,Farhan Yadav,15,Male,English,Gaming,5,4,1,1,2,4,2,3,1,1,2,1,0
+15,Yash Joshi,19,Male,English,Gaming,5,5,0,1,3,5,5,4,4,5,1,3,1
+16,Chitra Joshi,19,Female,Russian,Reading,3,4,1,0,3,1,4,4,4,4,4,1,1
+17,Kiran Rao,27,Female,Spanish,Nature,5,4,0,1,1,5,5,4,5,4,3,3,1
+18,Esha Khan,33,Female,Russian,Sports,2,3,1,0,1,3,3,2,2,4,4,2,1
+19,Hari Verma,24,Male,German,Art,5,2,0,1,3,2,4,3,5,1,1,2,1
+20,Chitra Patel,45,Male,Spanish,Cooking,5,5,1,1,2,2,2,3,4,2,3,1,0
+21,Simran Jain,23,Male,Japanese,Cooking,4,5,0,1,1,5,1,2,5,1,2,2,1
+22,Bittu Joshi,35,Male,Hindi,Gaming,2,5,1,0,4,4,2,4,5,4,3,1,1
+23,Om Khan,47,Female,German,Reading,5,3,1,0,1,1,2,5,4,5,2,5,0
+24,Tina Verma,33,Male,German,Reading,3,2,1,1,5,1,4,4,3,5,3,2,1
+25,Neha Desai,15,Female,Hindi,Traveling,4,5,1,0,2,3,4,3,3,5,1,1,1
+26,Manoj Singh,38,Female,French,Cooking,5,4,1,0,4,3,2,3,5,2,1,1,0
+27,Vikram Pandey,19,Female,Japanese,Reading,5,5,1,1,5,2,4,4,3,3,2,3,0
+28,Simran Desai,19,Female,German,Sports,1,4,1,1,2,1,5,5,4,1,3,4,0
+29,Tina Singh,47,Male,Mandarin,Sports,4,3,1,1,5,3,3,5,2,2,1,5,1
+30,Jatin Kulkarni,40,Male,English,Art,2,4,0,0,4,4,4,2,4,2,2,4,0
+31,Yash Ahmad,41,Female,German,Traveling,4,3,1,1,1,5,4,2,1,4,1,4,1
+32,Leena Iyer,17,Female,English,Music,4,5,0,0,4,2,2,5,5,4,2,3,1
+33,Vikram Das,22,Male,French,Gaming,5,3,1,1,2,1,2,4,1,1,1,1,0
+34,Gita Desai,37,Male,Russian,Traveling,1,3,1,0,4,4,4,4,4,4,2,4,1
+35,Kiran Pandey,46,Male,German,Technology,4,3,0,0,3,2,3,3,2,1,2,3,1
+36,Esha Sinha,42,Female,German,Nature,2,3,0,0,5,2,3,3,4,1,1,5,1
+37,Om Joshi,17,Male,Russian,Technology,3,2,0,0,2,3,5,5,2,3,2,2,0
+38,Pooja Das,39,Male,Japanese,Reading,1,2,0,1,1,4,3,5,5,1,3,1,1
+39,Om Rao,33,Male,Mandarin,Gaming,2,2,0,1,4,1,2,5,2,4,4,2,0
+40,Farhan Desai,19,Female,Mandarin,Art,2,3,1,1,5,2,4,2,3,5,3,4,0
+41,Yash Gupta,19,Female,Hindi,Music,3,3,1,0,5,5,1,1,4,4,4,2,1
+42,Hari Gupta,37,Male,Japanese,Traveling,1,4,0,0,3,2,1,1,2,1,5,2,1
+43,Kiran Chopra,26,Male,Hindi,Art,5,3,1,0,1,1,1,1,3,2,4,4,1
+44,Hari Patel,39,Male,English,Gaming,2,2,1,0,1,1,1,2,4,5,5,4,1
+45,Jatin Iyer,23,Male,Spanish,Music,3,4,1,0,5,4,4,1,1,5,1,3,0
+46,Isha Jain,44,Female,German,Nature,4,5,0,0,3,4,1,5,3,1,1,5,1
+47,Vikram Ahmad,37,Female,English,Traveling,3,5,1,1,4,2,4,4,1,4,5,1,1
+48,Tina Khan,46,Male,French,Sports,2,5,0,0,4,2,4,4,3,5,3,3,0
+49,Xena Sharma,44,Male,Japanese,Nature,2,2,1,0,2,5,2,3,3,3,2,5,0
+50,Manoj Sinha,22,Female,Japanese,Music,1,5,0,1,5,5,5,4,3,1,5,2,0
+51,Vikram Singh,16,Male,Mandarin,Sports,4,3,1,0,2,2,3,3,1,2,1,1,0
+52,Tina Yadav,36,Male,Mandarin,Music,2,3,1,1,2,5,5,2,2,3,2,2,1
+53,Simran Yadav,20,Female,English,Reading,4,4,1,1,2,2,3,5,5,3,3,5,0
+54,Qasim Reddy,46,Female,French,Gaming,3,1,1,1,1,3,2,4,1,1,5,3,1
+55,Leena Ahmad,33,Female,Russian,Music,5,1,0,1,4,4,2,1,1,3,5,5,1
+56,Deepak Rao,42,Female,Hindi,Traveling,1,3,0,1,1,1,5,2,4,1,1,2,1
+57,Hari Kapoor,17,Female,German,Gaming,5,2,0,1,3,2,5,2,3,1,4,3,0
+58,Manoj Das,39,Female,Hindi,Gaming,1,3,1,0,2,5,2,2,4,1,1,2,1
+59,Qasim Patel,46,Male,Japanese,Music,5,4,0,1,2,5,5,2,3,2,4,4,0
+60,Bittu Reddy,17,Male,Russian,Gaming,4,1,1,1,2,5,1,3,3,4,1,2,1
+61,Chitra Pandey,17,Female,Japanese,Cooking,1,1,0,1,4,5,4,3,5,1,1,3,0
+62,Aakash Dutta,45,Male,English,Technology,5,5,1,0,1,3,3,5,4,4,5,5,0
+63,Pooja Nair,40,Female,Hindi,Art,4,3,1,1,1,2,3,5,1,2,4,2,1
+64,Isha Das,46,Female,Russian,Traveling,5,2,1,0,3,5,2,4,1,4,1,1,0
+65,Uma Yadav,30,Male,Hindi,Music,2,5,1,0,1,1,3,3,2,1,2,1,0
+66,Xena Chopra,15,Female,Japanese,Reading,4,2,1,0,4,4,1,5,4,4,3,5,1
+67,Qasim Sinha,46,Female,Russian,Sports,5,1,1,0,3,4,3,2,5,2,4,4,1
+68,Qasim Dutta,35,Female,English,Art,5,1,0,1,1,5,1,3,1,4,4,4,0
+69,Uma Patel,27,Female,German,Music,2,4,0,1,1,4,5,4,1,5,4,1,1
+70,Uma Desai,20,Male,Mandarin,Reading,2,4,1,0,3,4,5,2,1,1,5,2,0
+71,Om Jain,39,Female,Hindi,Art,5,3,1,0,4,2,2,3,2,3,4,2,1
+72,Gita Khan,46,Male,Japanese,Art,3,1,1,0,2,1,2,1,1,4,1,5,1
+73,Esha Joshi,30,Male,Mandarin,Nature,4,5,0,1,2,5,2,1,3,5,3,2,1
+74,Isha Verma,26,Female,Spanish,Cooking,3,3,0,1,2,1,2,2,4,1,3,2,1
+75,Yash Singh,22,Female,Japanese,Sports,3,2,1,0,1,4,2,3,2,2,3,4,0
+76,Isha Khan,32,Female,English,Traveling,4,1,0,0,4,4,4,3,1,3,5,1,0
+77,Isha Kulkarni,37,Male,Russian,Art,3,2,1,1,5,5,2,5,3,1,1,1,0
+78,Yash Patel,24,Female,French,Gaming,3,1,0,1,1,4,5,2,5,3,4,4,0
+79,Kiran Rao,49,Female,Russian,Sports,1,1,1,0,5,2,3,3,1,1,5,3,0
+80,Aakash Dutta,47,Female,German,Nature,3,1,0,0,2,2,2,2,3,1,5,5,0
+81,Wahid Malhotra,41,Female,Japanese,Cooking,4,2,1,1,2,5,1,1,5,3,5,5,0
+82,Bittu Das,34,Male,Spanish,Music,5,3,0,1,5,1,3,5,2,2,4,3,0
+83,Simran Sharma,26,Female,German,Traveling,5,4,0,0,4,2,5,4,2,1,3,1,1
+84,Qasim Jain,29,Female,French,Traveling,5,4,0,0,3,2,2,1,1,4,1,2,0
+85,Wahid Rao,28,Male,Russian,Cooking,2,3,0,0,1,4,4,3,2,3,2,5,0
+86,Wahid Das,15,Male,French,Cooking,5,3,1,1,5,3,2,2,3,1,2,1,0
+87,Yash Iyer,29,Female,German,Traveling,2,2,1,0,2,5,2,2,1,4,4,3,1
+88,Uma Mehta,15,Female,Mandarin,Reading,5,3,0,1,4,2,4,5,2,2,1,1,1
+89,Farhan Dutta,38,Male,German,Nature,4,3,1,0,4,3,4,3,5,3,5,3,0
+90,Om Das,37,Male,Hindi,Music,4,4,0,1,4,5,3,1,1,5,5,5,1
+91,Leena Verma,45,Female,Russian,Music,5,5,1,1,3,3,5,2,3,5,5,1,1
+92,Pooja Sinha,27,Female,Russian,Art,3,2,0,1,4,3,3,4,4,3,1,1,0
+93,Chitra Dutta,47,Female,German,Sports,2,2,1,0,3,4,3,2,3,4,4,2,1
+94,Farhan Joshi,16,Male,French,Cooking,4,4,1,0,1,5,4,5,5,1,2,1,1
+95,Jatin Verma,37,Female,Japanese,Art,4,2,1,1,2,4,4,1,3,2,1,3,1
+96,Aakash Patel,38,Male,English,Art,1,5,1,1,3,1,2,2,4,4,2,5,1
+97,Esha Pandey,41,Male,Russian,Cooking,4,4,0,1,4,2,3,3,3,3,3,1,1
+98,Gita Mehta,15,Male,German,Technology,1,1,0,1,4,2,3,1,5,4,4,4,0
+99,Aakash Kulkarni,23,Male,English,Art,2,1,0,0,4,3,1,1,5,1,4,5,0
+100,Farhan Joshi,16,Female,Mandarin,Gaming,1,3,1,0,1,2,5,2,4,3,3,3,0
+101,Hari Chopra,30,Female,Mandarin,Gaming,5,3,0,1,4,4,3,5,3,1,4,1,0
+102,Kiran Patel,43,Female,Japanese,Art,4,4,1,1,4,2,4,3,1,4,3,2,0
+103,Jatin Ahmad,47,Female,Hindi,Sports,2,2,0,0,3,4,4,4,2,2,1,2,1
+104,Wahid Sharma,46,Female,Spanish,Nature,3,1,1,1,4,1,4,3,3,4,3,5,0
+105,Simran Khan,40,Male,Mandarin,Nature,2,4,1,1,2,1,4,4,1,2,4,4,0
+106,Neha Gupta,20,Female,Hindi,Gaming,4,2,1,0,2,5,1,4,3,1,4,1,1
+107,Xena Yadav,48,Female,Mandarin,Technology,5,3,0,0,2,4,2,4,3,3,5,1,1
+108,Bittu Rao,44,Male,Hindi,Reading,4,2,1,0,5,2,3,5,2,5,2,5,1
+109,Isha Dutta,45,Male,Japanese,Traveling,4,5,0,0,1,2,5,5,5,2,2,4,0
+110,Chitra Desai,47,Male,Russian,Sports,5,4,1,1,5,2,4,3,1,2,3,2,0
+111,Yash Das,26,Male,Spanish,Reading,2,2,0,0,1,2,4,1,3,3,1,5,1
+112,Aakash Sinha,48,Female,Japanese,Reading,5,4,1,1,5,2,3,2,5,1,4,4,0
+113,Pooja Sinha,33,Female,Mandarin,Gaming,4,5,0,0,2,4,2,1,2,1,4,2,1
+114,Chitra Desai,40,Male,Russian,Traveling,3,4,0,1,4,4,5,2,4,5,5,5,1
+115,Farhan Rao,28,Male,Mandarin,Technology,2,4,1,1,5,5,2,1,2,1,2,3,1
+116,Farhan Sinha,35,Female,English,Traveling,1,1,0,1,1,5,4,4,1,2,3,1,1
+117,Manoj Nair,26,Male,Mandarin,Sports,4,3,1,1,3,5,2,1,3,2,2,1,1
+118,Gita Das,39,Male,French,Nature,4,1,1,1,5,1,4,5,5,1,3,3,1
+119,Esha Sharma,39,Female,French,Music,5,4,1,0,1,3,5,5,2,5,3,2,1
+120,Bittu Joshi,18,Female,Mandarin,Art,4,1,0,1,1,2,3,3,5,2,4,1,1
+121,Kiran Joshi,17,Male,Japanese,Music,5,2,1,1,3,5,5,2,1,4,2,4,1
+122,Tina Rao,39,Male,French,Traveling,5,2,1,1,3,1,2,1,2,3,5,1,0
+123,Xena Sharma,35,Female,Mandarin,Technology,3,2,0,0,5,2,5,3,5,2,4,2,1
+124,Deepak Kapoor,20,Female,Spanish,Art,5,5,0,1,2,2,5,1,1,3,3,1,1
+125,Esha Kulkarni,23,Female,English,Cooking,3,3,1,1,1,4,4,1,3,1,4,3,0
+126,Isha Patel,37,Male,Mandarin,Sports,2,3,0,1,1,1,1,3,2,3,3,1,0
+127,Jatin Desai,25,Female,Spanish,Gaming,3,4,0,1,2,4,1,3,2,4,3,5,0
+128,Uma Reddy,31,Female,German,Music,2,5,0,1,2,3,4,4,1,5,3,1,0
+129,Hari Roy,16,Female,Spanish,Music,4,3,0,0,2,5,5,1,4,2,2,2,1
+130,Esha Nair,34,Female,Spanish,Technology,1,4,1,0,3,4,2,1,2,4,1,4,1
+131,Hari Malhotra,42,Female,Russian,Gaming,5,4,0,1,2,5,1,4,2,2,1,1,1
+132,Vikram Sharma,25,Female,English,Sports,2,4,1,0,5,1,4,1,4,1,3,2,1
+133,Pooja Sharma,24,Female,Spanish,Cooking,2,2,0,0,5,4,1,4,1,1,2,4,1
+134,Bittu Dutta,34,Female,Spanish,Sports,5,3,1,1,5,1,5,3,3,1,5,5,1
+135,Farhan Iyer,47,Male,Mandarin,Art,3,5,1,1,1,2,2,5,5,4,2,1,0
+136,Isha Rao,39,Male,Japanese,Gaming,2,1,0,0,5,4,2,2,5,2,4,5,1
+137,Deepak Reddy,19,Male,Russian,Music,5,2,0,0,2,4,3,3,1,5,3,2,1
+138,Manoj Das,34,Female,Russian,Reading,3,5,0,1,3,3,3,2,4,1,2,4,0
+139,Qasim Patel,42,Male,Mandarin,Reading,3,3,1,0,4,4,3,1,2,2,4,5,1
+140,Farhan Malhotra,24,Male,English,Cooking,4,2,0,1,3,5,1,4,2,4,5,2,0
+141,Ravi Mehta,26,Male,French,Art,4,4,1,1,2,2,3,3,2,1,2,3,1
+142,Simran Mehta,45,Male,Russian,Nature,4,5,1,0,3,3,3,3,3,4,1,5,1
+143,Om Nair,46,Male,Japanese,Technology,2,5,0,1,2,1,1,1,2,5,4,3,0
+144,Manoj Nair,40,Female,Russian,Sports,4,4,1,1,1,2,3,2,2,2,4,2,0
+145,Neha Nair,37,Female,Spanish,Sports,5,1,0,1,5,5,4,2,4,2,2,5,0
+146,Aakash Nair,40,Male,English,Cooking,5,5,1,1,1,3,4,2,5,4,2,5,1
+147,Bittu Sharma,31,Male,German,Cooking,4,2,0,0,4,2,2,2,3,5,2,5,1
+148,Esha Gupta,26,Male,English,Art,1,4,1,1,2,5,2,1,5,1,2,3,1
+149,Uma Desai,40,Female,German,Cooking,2,5,1,1,2,4,2,2,2,4,2,3,1
+150,Jatin Khan,43,Male,Mandarin,Gaming,4,5,0,1,3,4,2,5,2,4,2,2,1
+151,Wahid Singh,48,Female,German,Cooking,5,4,0,0,2,5,2,2,4,2,1,3,1
+152,Bittu Nair,19,Female,German,Music,2,1,0,0,5,1,2,3,1,2,5,4,1
+153,Uma Reddy,40,Male,German,Cooking,2,3,0,0,4,5,5,2,2,4,3,2,0
+154,Yash Khan,31,Female,English,Sports,5,2,0,0,5,5,3,1,1,5,3,2,0
+155,Ravi Yadav,22,Female,Russian,Art,3,1,0,0,1,1,1,4,4,4,3,3,1
+156,Simran Mehta,15,Female,Russian,Sports,4,2,0,0,1,3,1,5,2,3,4,5,0
+157,Tina Patel,21,Female,Spanish,Art,4,5,1,1,4,2,5,4,2,4,4,2,0
+158,Kiran Kapoor,36,Male,Russian,Cooking,1,4,1,1,1,2,1,4,1,2,5,1,1
+159,Om Singh,18,Male,English,Music,4,4,1,0,1,1,5,1,5,3,4,2,0
+160,Vikram Yadav,47,Female,Hindi,Gaming,2,4,1,1,3,4,1,3,5,2,2,2,0
+161,Bittu Pandey,30,Male,Japanese,Technology,1,1,0,1,3,2,5,3,2,2,1,2,0
+162,Tina Ahmad,36,Female,Hindi,Traveling,3,3,0,1,1,2,5,3,5,1,2,4,0
+163,Chitra Roy,17,Male,English,Cooking,2,2,0,0,3,4,5,1,3,5,3,1,1
+164,Yash Jain,45,Female,Japanese,Gaming,3,4,1,0,4,1,2,3,1,3,5,5,0
+165,Jatin Roy,15,Female,Japanese,Gaming,1,3,1,1,5,1,4,5,3,2,4,5,0
+166,Farhan Nair,17,Female,Mandarin,Music,3,3,1,1,5,2,5,5,4,1,3,2,1
+167,Wahid Gupta,43,Female,English,Art,3,3,1,0,1,4,4,1,4,5,4,3,0
+168,Aakash Gupta,20,Female,German,Traveling,5,3,1,1,3,2,1,2,1,3,2,1,0
+169,Simran Joshi,23,Male,English,Cooking,2,4,1,0,3,3,5,3,3,1,1,4,0
+170,Vikram Patel,26,Male,Hindi,Gaming,5,3,0,0,2,2,4,1,4,2,1,4,1
+171,Xena Das,44,Male,French,Reading,3,5,0,0,4,3,3,2,1,1,3,1,0
+172,Isha Yadav,47,Male,French,Gaming,2,3,0,1,4,2,1,5,2,3,4,1,1
+173,Om Dutta,28,Female,Hindi,Music,4,4,1,1,3,4,2,3,2,2,5,5,1
+174,Aakash Das,30,Male,Japanese,Reading,3,1,0,1,2,5,2,1,5,3,3,1,1
+175,Yash Gupta,19,Female,Japanese,Gaming,2,3,0,0,3,2,1,5,5,2,4,5,1
+176,Yash Verma,32,Male,Japanese,Traveling,1,5,1,1,1,5,3,2,1,5,2,4,0
+177,Leena Rao,18,Female,French,Sports,3,5,0,1,4,5,4,4,1,2,3,1,1
+178,Qasim Dutta,19,Female,French,Art,1,2,1,1,4,3,1,1,1,1,1,2,1
+179,Farhan Rao,25,Female,Mandarin,Nature,1,5,0,1,5,2,2,5,5,3,5,5,0
+180,Farhan Pandey,18,Male,French,Gaming,3,1,0,0,4,4,3,3,1,3,2,4,0
+181,Esha Ahmad,40,Male,German,Music,5,2,1,1,4,4,2,2,4,3,1,2,1
+182,Esha Singh,22,Female,Spanish,Reading,2,2,1,0,1,1,4,2,1,5,1,1,0
+183,Yash Kapoor,16,Female,Mandarin,Nature,3,2,0,1,3,5,1,3,1,1,5,2,1
+184,Om Malhotra,42,Female,English,Traveling,2,2,1,0,5,2,2,1,2,5,5,3,1
+185,Bittu Sinha,24,Female,Spanish,Nature,5,3,1,1,3,4,1,1,4,1,3,1,0
+186,Chitra Kapoor,23,Male,Hindi,Nature,3,5,0,0,5,4,3,4,5,2,1,3,0
+187,Ravi Joshi,35,Male,Russian,Sports,5,5,0,0,5,2,4,1,5,3,1,3,1
+188,Chitra Chopra,38,Male,Hindi,Art,4,1,0,1,5,4,4,3,1,2,4,1,0
+189,Manoj Ahmad,36,Female,German,Traveling,2,3,1,1,1,5,1,2,2,5,4,5,1
+190,Bittu Nair,36,Male,Spanish,Technology,5,2,0,0,4,3,3,1,3,3,1,5,1
+191,Manoj Khan,39,Female,Russian,Nature,5,1,1,0,3,2,1,3,1,4,1,3,1
+192,Jatin Khan,36,Male,Japanese,Nature,1,2,0,1,3,4,1,5,2,4,5,5,0
+193,Pooja Ahmad,25,Male,Spanish,Reading,5,4,1,1,3,3,2,4,1,4,2,2,1
+194,Uma Khan,43,Male,German,Technology,4,4,0,0,3,5,1,5,5,3,4,3,0
+195,Qasim Pandey,46,Female,Russian,Traveling,4,1,0,0,4,5,3,4,2,4,3,3,1
+196,Bittu Rao,38,Female,Spanish,Sports,3,4,1,1,5,1,1,3,2,2,4,2,1
+197,Uma Jain,35,Male,French,Cooking,3,3,1,1,3,5,5,3,4,4,4,1,0
+198,Ravi Verma,49,Male,German,Traveling,4,3,0,1,2,5,3,3,3,1,2,5,0
+199,Yash Kulkarni,47,Female,Mandarin,Reading,5,1,0,1,2,2,1,5,2,1,4,3,0
+200,Yash Iyer,28,Female,Hindi,Sports,3,4,0,1,1,1,4,1,1,4,5,5,0
+201,Tina Kulkarni,27,Male,French,Cooking,1,5,1,1,4,4,2,2,3,3,3,5,0
+202,Tina Sharma,18,Male,English,Sports,1,2,0,1,4,3,4,2,1,4,4,2,1
+203,Om Pandey,23,Female,Mandarin,Music,4,5,1,0,4,4,3,3,2,1,5,3,0
+204,Yash Kulkarni,26,Female,French,Nature,2,3,1,0,3,1,4,1,2,1,1,2,0
+205,Vikram Sinha,32,Female,English,Technology,5,3,1,1,4,1,4,3,5,3,2,5,1
+206,Isha Sinha,34,Female,Spanish,Technology,2,4,0,1,5,4,2,3,3,2,4,1,0
+207,Hari Dutta,37,Female,French,Gaming,3,2,0,0,4,1,5,1,5,3,4,3,0
+208,Chitra Dutta,19,Male,German,Art,5,2,1,0,1,4,2,3,4,1,2,4,0
+209,Aakash Verma,43,Female,Japanese,Traveling,4,2,1,0,5,1,2,3,2,2,2,5,0
+210,Hari Chopra,30,Female,French,Sports,4,4,0,0,5,5,2,5,1,2,5,2,0
+211,Manoj Kapoor,34,Male,German,Nature,4,2,1,0,2,5,5,3,3,5,4,4,1
+212,Jatin Nair,33,Male,German,Cooking,2,3,0,1,2,4,1,5,2,2,3,4,0
+213,Ravi Pandey,33,Female,German,Nature,2,2,0,0,4,1,5,3,3,4,3,1,0
+214,Jatin Iyer,16,Female,English,Traveling,4,5,0,0,4,2,3,3,1,2,1,5,1
+215,Chitra Yadav,35,Female,Hindi,Technology,5,1,0,0,5,1,4,2,1,5,5,2,1
+216,Yash Kulkarni,17,Female,Mandarin,Music,1,3,1,0,5,5,2,5,1,4,5,3,0
+217,Leena Pandey,20,Female,Japanese,Music,4,5,0,0,3,4,1,4,1,3,5,4,0
+218,Pooja Kapoor,48,Male,Spanish,Cooking,4,2,1,1,1,5,3,4,1,4,5,4,1
+219,Yash Dutta,36,Female,Hindi,Reading,2,5,1,0,4,2,5,3,1,3,3,5,0
+220,Bittu Desai,28,Female,German,Music,4,3,1,0,4,3,4,2,5,3,3,2,1
+221,Uma Khan,43,Female,Mandarin,Gaming,1,3,1,1,2,5,5,2,5,5,4,4,0
+222,Leena Ahmad,49,Male,Russian,Technology,5,2,0,1,3,5,5,3,3,1,4,2,1
+223,Xena Ahmad,37,Male,Japanese,Cooking,2,4,1,0,5,1,2,4,4,3,4,1,0
+224,Jatin Khan,47,Female,Russian,Sports,4,1,1,1,1,4,4,1,5,2,1,2,0
+225,Qasim Kapoor,24,Male,Hindi,Art,3,3,1,1,1,4,1,1,5,4,1,3,1
+226,Xena Chopra,27,Female,Hindi,Music,1,2,0,0,3,3,4,3,2,3,1,4,0
+227,Kiran Malhotra,37,Male,Spanish,Traveling,4,2,0,1,4,5,2,3,3,2,1,2,1
+228,Uma Desai,48,Female,French,Technology,3,1,0,1,1,3,1,4,4,1,3,5,0
+229,Kiran Patel,49,Female,French,Reading,4,5,1,0,1,1,4,1,2,4,5,4,1
+230,Isha Khan,30,Male,Hindi,Cooking,4,3,1,0,4,2,4,2,1,2,2,5,1
+231,Yash Mehta,33,Male,German,Reading,2,4,0,1,3,1,3,5,5,2,4,1,0
+232,Isha Joshi,21,Male,German,Technology,1,1,1,0,4,1,5,3,4,3,4,3,1
+233,Vikram Ahmad,43,Male,Mandarin,Nature,1,4,0,0,2,2,3,5,3,4,5,1,1
+234,Manoj Iyer,44,Male,Mandarin,Art,3,2,1,1,4,2,5,2,5,5,1,5,0
+235,Hari Singh,31,Male,German,Traveling,5,4,1,1,4,4,4,5,3,1,1,5,0
+236,Yash Kulkarni,22,Female,English,Nature,4,2,1,1,4,1,3,1,2,2,2,3,1
+237,Bittu Pandey,33,Male,Spanish,Cooking,5,1,1,0,1,2,2,3,5,2,2,5,1
+238,Yash Jain,17,Female,German,Sports,3,5,1,0,5,2,1,5,5,3,5,1,0
+239,Pooja Reddy,25,Female,Japanese,Music,1,1,0,0,1,3,2,1,5,5,5,5,1
+240,Simran Verma,47,Male,English,Music,1,2,0,0,5,4,5,4,1,4,1,2,0
+241,Vikram Roy,17,Male,Japanese,Cooking,3,4,1,1,1,1,3,3,5,5,3,5,0
+242,Simran Das,21,Male,Japanese,Art,1,2,1,0,5,4,5,3,4,2,3,5,0
+243,Aakash Yadav,41,Female,German,Music,1,2,1,1,4,4,4,5,1,3,3,1,0
+244,Neha Malhotra,20,Female,Japanese,Reading,2,4,1,0,2,2,5,5,4,1,4,3,0
+245,Om Verma,45,Male,French,Nature,1,1,1,1,3,3,4,5,4,1,3,1,0
+246,Esha Sharma,25,Male,Mandarin,Reading,4,5,1,0,4,3,3,2,2,5,4,4,0
+247,Simran Khan,20,Female,English,Traveling,5,2,1,0,1,5,3,3,4,3,4,4,0
+248,Gita Das,33,Male,Mandarin,Nature,2,5,0,1,1,1,2,1,2,5,3,4,0
+249,Esha Iyer,19,Female,Hindi,Technology,2,3,0,0,1,2,3,5,4,5,1,1,0
+250,Tina Sinha,41,Male,Russian,Reading,2,2,0,0,3,4,4,4,4,4,2,5,1
+251,Vikram,46,Male,Hindi,Traveling,5,2,0,1,2,5,1,4,2,5,2,1,1
+252,Wahid,49,Male,German,Nature,1,2,1,1,2,3,2,2,1,2,1,1,0
+253,Isha,16,Female,English,Music,1,4,0,0,4,2,3,2,4,3,2,5,1
+254,Neha,48,Male,Mandarin,Music,1,1,0,0,2,2,2,5,5,5,4,1,1
+255,Tina,21,Male,English,Music,1,5,0,1,2,5,4,5,4,3,5,1,1
+256,Isha,37,Male,Spanish,Cooking,5,1,1,0,5,3,1,4,5,5,4,3,1
+257,Neha,29,Female,German,Nature,1,1,0,1,5,2,3,4,4,4,2,3,0
+258,Simran,43,Female,French,Art,1,3,1,1,4,3,5,2,1,3,1,1,0
+259,Hari,23,Female,Russian,Traveling,3,1,1,1,1,1,2,2,3,3,4,5,1
+260,Deepak,18,Male,Russian,Technology,2,5,1,0,5,5,3,4,2,1,3,3,1
+261,Isha,38,Male,French,Art,5,4,1,1,2,4,1,5,5,1,1,5,1
+262,Leena,35,Female,Russian,Technology,2,2,1,1,5,4,5,1,4,4,2,2,1
+263,Deepak,36,Female,Japanese,Nature,3,3,0,1,3,5,4,4,2,3,3,1,0
+264,Esha,43,Male,French,Cooking,2,3,1,1,1,1,2,1,3,5,5,3,1
+265,Yash,49,Female,Mandarin,Art,5,1,1,0,4,3,4,5,2,1,1,2,1
+266,Gita,30,Female,Spanish,Technology,4,4,0,1,3,3,4,5,5,5,1,1,0
+267,Jatin,22,Female,German,Gaming,4,5,1,1,3,3,2,4,2,3,5,3,1
+268,Isha,16,Female,Russian,Music,3,4,0,1,2,2,3,3,3,5,5,2,1
+269,Gita,45,Female,French,Technology,4,5,0,0,4,5,4,2,5,3,3,4,0
+270,Chitra,47,Male,Spanish,Cooking,5,3,1,0,5,1,5,4,2,4,5,4,1
+271,Jatin,43,Female,French,Sports,3,5,1,0,1,2,4,5,3,5,4,3,0
+272,Gita,26,Female,Mandarin,Technology,3,2,0,1,2,2,1,3,1,5,3,1,0
+273,Yash,32,Female,French,Gaming,4,3,1,0,1,4,1,2,1,2,1,1,1
+274,Neha,32,Male,German,Cooking,2,3,0,1,1,2,3,1,5,5,1,4,0
+275,Pooja,15,Female,Spanish,Sports,5,4,1,1,1,2,2,3,4,3,3,3,0
+276,Kiran,38,Male,French,Art,4,5,1,1,4,2,5,2,2,1,3,3,1
+277,Hari,49,Female,Spanish,Reading,3,3,1,0,2,3,1,2,5,4,5,4,1
+278,Uma,49,Male,Spanish,Cooking,4,2,0,0,2,1,3,5,5,2,3,1,0
+279,Kiran,21,Female,Russian,Reading,1,5,1,0,3,1,5,4,3,5,4,3,0
+280,Isha,19,Female,German,Sports,1,3,1,0,4,1,4,5,3,1,3,4,1
+281,Yash,29,Female,Russian,Traveling,1,1,0,1,5,2,5,4,2,4,5,5,0
+282,Esha,18,Female,Spanish,Nature,4,2,0,1,4,3,5,3,4,5,2,1,0
+283,Farhan,47,Male,Spanish,Music,2,4,1,1,2,3,3,2,5,5,1,3,1
+284,Ravi,20,Female,French,Art,4,5,1,1,5,4,3,1,1,4,1,2,0
+285,Hari,46,Female,Russian,Traveling,4,2,0,1,2,4,3,4,5,5,1,2,0
+286,Simran,25,Female,Mandarin,Nature,2,1,0,1,1,4,1,2,1,5,3,1,1
+287,Neha,39,Male,German,Traveling,2,4,1,0,1,2,1,1,5,3,4,4,0
+288,Ravi,29,Male,German,Reading,4,5,0,0,3,4,2,1,1,3,2,4,1
+289,Farhan,19,Female,French,Music,1,5,1,1,5,3,1,5,3,5,3,5,1
+290,Uma,20,Male,Russian,Technology,4,1,1,0,4,3,2,2,1,4,5,2,0
+291,Yash,44,Male,Spanish,Gaming,4,3,1,1,2,4,2,1,1,4,4,3,1
+292,Isha,15,Female,English,Music,5,5,0,0,1,2,2,1,2,3,3,1,0
+293,Vikram,25,Male,English,Sports,1,5,0,0,2,5,2,4,1,4,3,1,0
+294,Yash,27,Male,Hindi,Reading,3,3,0,1,1,1,4,2,4,3,5,1,0
+295,Isha,35,Female,Japanese,Nature,2,1,0,0,2,4,2,2,5,4,1,3,1
+296,Simran,46,Male,Hindi,Cooking,4,1,0,0,1,5,5,3,1,3,1,3,0
+297,Kiran,26,Male,French,Nature,1,1,0,0,3,4,2,3,3,3,1,4,0
+298,Pooja,27,Female,Mandarin,Gaming,4,5,1,1,5,4,2,5,3,2,1,1,1
+299,Aakash,46,Male,French,Nature,2,3,1,0,1,1,4,2,3,4,4,5,1
+300,Bittu,31,Male,German,Traveling,3,3,1,1,3,4,3,5,3,3,2,4,0
+301,Isha,21,Female,English,Reading,5,5,0,0,5,4,5,3,4,5,5,1,1
+302,Jatin,32,Female,German,Technology,2,1,0,1,4,4,5,4,2,3,5,4,1
+303,Simran,39,Male,Russian,Art,3,1,1,1,2,4,1,4,3,4,1,4,1
+304,Vikram,37,Female,Hindi,Gaming,1,3,0,0,1,2,3,2,4,2,1,5,1
+305,Isha,27,Female,Hindi,Sports,4,3,1,0,4,1,3,4,1,3,4,2,1
+306,Isha,25,Male,German,Nature,5,5,0,0,4,2,5,2,4,2,3,2,1
+307,Bittu,48,Female,Hindi,Traveling,2,2,1,1,4,5,4,4,2,1,5,1,1
+308,Yash,36,Female,Japanese,Cooking,4,3,1,0,3,1,3,2,2,2,1,1,1
+309,Kiran,16,Male,Mandarin,Nature,4,1,1,1,2,2,3,2,2,5,4,4,1
+310,Ravi,17,Male,German,Nature,5,5,0,1,2,3,2,4,5,1,3,3,1
+311,Chitra,28,Female,Russian,Art,4,4,1,1,5,5,2,5,1,2,3,3,1
+312,Pooja,49,Female,English,Technology,4,4,1,1,2,5,1,2,4,5,2,2,1
+313,Esha,45,Male,French,Music,1,3,1,0,2,3,5,5,3,4,5,2,1
+314,Gita,29,Female,French,Gaming,5,4,1,0,4,2,3,3,2,4,3,4,0
+315,Gita,25,Male,Spanish,Traveling,5,3,1,0,2,5,1,2,2,3,2,2,0
+316,Ravi,19,Male,English,Reading,4,3,1,0,1,1,3,1,4,2,4,5,1
+317,Simran,29,Female,English,Traveling,4,4,1,0,4,1,2,5,4,4,1,2,1
+318,Chitra,31,Male,Russian,Reading,4,4,1,0,3,1,5,2,3,2,3,1,1
+319,Esha,23,Female,Mandarin,Art,4,5,0,0,1,2,3,2,5,2,3,5,1
+320,Jatin,35,Female,Russian,Cooking,1,4,0,1,4,5,2,4,1,4,3,1,0
+321,Pooja,39,Female,Hindi,Gaming,5,4,1,1,2,5,3,3,4,5,5,4,0
+322,Xena,45,Male,Mandarin,Nature,2,4,1,1,4,4,4,4,3,3,1,2,1
+323,Neha,20,Male,English,Reading,2,5,1,0,3,5,4,5,5,3,2,4,0
+324,Om,45,Female,Mandarin,Reading,5,1,0,1,2,4,3,4,5,4,3,1,1
+325,Gita,43,Female,German,Gaming,5,1,0,0,3,5,2,4,3,1,4,1,0
+326,Deepak,35,Female,English,Gaming,1,5,0,0,2,2,5,1,1,3,5,5,0
+327,Tina,39,Female,Spanish,Music,3,5,1,1,4,5,4,4,4,2,1,1,0
+328,Isha,49,Female,German,Art,4,5,0,0,5,4,2,5,4,5,2,4,1
+329,Tina,30,Female,Russian,Music,3,4,0,0,3,1,2,3,3,2,4,2,0
+330,Aakash,35,Male,Hindi,Gaming,5,5,0,1,3,5,3,2,1,1,2,4,1
+331,Tina,47,Female,Japanese,Art,2,2,0,0,5,1,3,3,5,3,2,1,1
+332,Bittu,47,Male,German,Cooking,2,5,0,1,3,3,4,4,5,4,4,4,1
+333,Bittu,24,Female,Japanese,Art,5,5,0,0,5,2,4,3,3,4,2,1,0
+334,Wahid,49,Male,Hindi,Music,4,3,0,0,4,5,3,4,4,4,4,2,0
+335,Pooja,18,Female,Russian,Art,4,2,1,0,5,1,5,1,3,3,4,2,0
+336,Ravi,43,Female,Japanese,Music,4,5,1,0,4,4,4,3,1,1,3,2,1
+337,Wahid,43,Male,Japanese,Gaming,4,1,1,1,2,3,2,5,2,4,5,4,1
+338,Xena,19,Male,French,Art,2,4,1,1,5,1,2,5,2,4,3,3,1
+339,Esha,33,Male,German,Gaming,2,3,1,1,1,4,3,4,1,2,3,3,0
+340,Om,22,Female,Hindi,Nature,5,4,0,0,1,4,5,1,2,5,2,3,1
+341,Bittu,16,Male,Japanese,Gaming,2,4,1,0,1,3,1,1,3,1,3,4,0
+342,Yash,46,Female,Mandarin,Nature,5,4,1,0,2,2,1,3,3,5,2,1,1
+343,Tina,41,Male,German,Technology,4,5,1,0,4,1,1,3,3,4,5,1,1
+344,Esha,46,Female,German,Reading,1,2,1,0,3,3,5,5,5,5,3,1,1
+345,Hari,30,Female,Japanese,Nature,5,1,0,1,2,4,5,3,1,1,3,1,1
+346,Qasim,18,Female,Japanese,Cooking,4,4,0,0,3,3,4,1,2,3,2,2,0
+347,Simran,23,Male,Spanish,Nature,2,2,1,1,1,5,1,3,5,3,5,5,1
+348,Chitra,43,Male,German,Reading,1,3,1,1,3,4,5,4,4,1,4,3,1
+349,Esha,49,Female,French,Sports,4,5,0,1,3,3,5,1,1,1,5,4,0
+350,Manoj,49,Female,Mandarin,Gaming,1,4,0,1,3,5,1,1,4,4,1,5,1
+351,Yash,25,Female,Hindi,Music,3,2,0,0,1,4,2,4,5,3,2,5,1
+352,Chitra,25,Female,Russian,Gaming,2,4,0,1,2,5,2,5,4,1,3,4,0
+353,Farhan,47,Female,German,Technology,1,3,0,1,2,1,2,4,4,1,1,3,0
+354,Aakash,21,Female,Mandarin,Sports,3,5,1,0,5,2,2,1,1,5,4,1,1
+355,Wahid,23,Female,Japanese,Sports,4,1,0,1,1,3,3,3,5,4,5,2,0
+356,Deepak,46,Male,French,Traveling,3,5,0,0,1,4,4,4,1,5,3,3,0
+357,Leena,18,Male,Russian,Cooking,5,4,0,1,1,5,4,5,2,4,5,2,1
+358,Yash,43,Female,English,Cooking,1,2,0,0,1,5,4,2,2,2,3,3,0
+359,Xena,31,Female,Hindi,Sports,4,4,0,1,4,2,3,5,3,3,1,3,0
+360,Jatin,47,Male,French,Art,4,3,1,1,2,1,2,2,1,5,4,5,1
+361,Bittu,41,Female,Mandarin,Music,5,2,0,1,2,1,3,1,4,5,1,4,0
+362,Jatin,25,Female,Russian,Traveling,1,4,0,1,2,2,2,3,5,5,4,1,0
+363,Farhan,26,Male,Mandarin,Cooking,2,1,1,0,4,5,2,1,1,4,1,3,0
+364,Neha,28,Male,English,Traveling,5,2,1,1,3,3,1,4,3,1,2,3,0
+365,Bittu,15,Male,French,Technology,5,4,0,0,3,5,1,3,5,1,3,2,1
+366,Yash,31,Male,Mandarin,Sports,1,1,1,0,3,3,2,2,3,1,5,5,1
+367,Gita,18,Female,Hindi,Gaming,4,5,1,0,4,2,4,5,2,5,4,1,1
+368,Leena,26,Female,Hindi,Cooking,1,5,1,1,4,2,1,3,5,2,5,5,0
+369,Qasim,21,Female,Spanish,Traveling,1,3,1,0,3,1,5,2,5,4,3,2,0
+370,Pooja,34,Female,Mandarin,Sports,4,5,0,0,3,3,3,3,3,5,3,5,0
+371,Chitra,27,Female,Russian,Cooking,2,1,0,0,2,1,2,3,5,3,4,4,1
+372,Aakash,37,Female,English,Nature,4,5,0,0,4,2,4,3,3,1,1,5,0
+373,Yash,16,Female,Japanese,Traveling,3,1,1,0,3,5,5,5,1,1,2,1,1
+374,Hari,45,Male,Spanish,Gaming,5,1,1,1,3,1,1,5,3,5,5,5,1
+375,Qasim,32,Male,German,Nature,4,4,0,0,1,4,1,5,2,3,4,2,1
+376,Uma,42,Female,French,Cooking,4,3,0,0,2,5,5,2,2,4,1,4,0
+377,Ravi,41,Male,French,Cooking,5,5,1,0,2,2,3,5,1,2,3,2,0
+378,Esha,22,Female,Hindi,Gaming,4,5,0,0,4,1,5,2,4,2,4,4,1
+379,Leena,32,Female,Japanese,Nature,4,2,1,0,4,2,2,5,5,4,3,4,1
+380,Deepak,23,Male,Mandarin,Gaming,3,5,1,1,2,1,3,3,4,4,2,1,1
+381,Chitra,40,Male,Japanese,Technology,2,3,0,0,1,4,3,2,3,5,2,1,1
+382,Bittu,49,Male,French,Traveling,2,1,0,0,5,5,4,1,4,5,1,2,0
+383,Esha,36,Female,Mandarin,Music,4,2,0,1,1,4,2,4,5,5,1,5,0
+384,Leena,17,Female,Spanish,Music,5,3,1,1,5,1,1,4,4,2,3,2,1
+385,Isha,41,Female,Russian,Cooking,5,1,0,1,5,5,4,3,5,5,3,4,0
+386,Kiran,17,Female,German,Gaming,3,4,0,1,4,1,1,2,5,5,5,3,1
+387,Hari,41,Male,Japanese,Traveling,1,2,1,0,4,5,4,4,1,4,4,5,1
+388,Farhan,45,Male,Russian,Traveling,1,1,1,0,2,4,3,2,3,2,2,5,0
+389,Uma,16,Male,Hindi,Music,1,2,1,1,5,2,3,4,1,3,2,5,1
+390,Kiran,49,Male,Japanese,Music,1,2,0,0,3,3,2,2,4,5,1,1,1
+391,Ravi,27,Male,Mandarin,Nature,2,4,0,1,4,5,5,5,3,4,5,3,1
+392,Vikram,18,Male,English,Nature,1,2,0,0,3,1,3,4,4,1,4,3,0
+393,Hari,45,Male,Spanish,Art,4,3,1,0,2,5,4,5,5,1,1,2,1
+394,Xena,22,Female,Mandarin,Gaming,2,4,1,1,4,2,1,5,5,2,4,4,0
+395,Vikram,46,Female,English,Gaming,2,5,1,1,3,1,3,1,3,3,4,1,1
+396,Om,15,Male,Mandarin,Music,1,4,1,0,3,2,1,2,2,3,2,2,0
+397,Vikram,27,Male,Spanish,Technology,2,4,0,1,3,5,5,2,3,1,2,4,0
+398,Qasim,38,Female,Mandarin,Gaming,3,3,1,1,5,5,4,1,1,5,5,2,1
+399,Ravi,15,Male,Japanese,Cooking,3,1,0,0,2,2,1,1,2,2,1,3,1
+400,Leena,20,Male,Hindi,Traveling,4,3,1,0,3,4,2,3,3,2,3,2,0
+401,Yash,49,Female,Spanish,Nature,5,4,1,1,4,2,4,1,2,3,3,5,1
+402,Manoj,30,Male,English,Cooking,2,3,0,1,3,2,4,2,2,3,5,4,1
+403,Farhan,25,Male,German,Art,5,4,1,0,3,2,2,2,1,5,3,4,0
+404,Aakash,43,Male,Russian,Traveling,2,3,0,1,1,1,5,3,5,2,2,3,0
+405,Jatin,34,Female,Mandarin,Sports,5,3,0,1,2,4,1,3,2,4,5,5,0
+406,Pooja,34,Female,English,Cooking,2,5,1,1,3,1,4,3,1,1,4,4,0
+407,Hari,26,Female,Mandarin,Art,4,3,1,0,4,1,3,2,3,5,4,4,1
+408,Jatin,32,Female,Japanese,Reading,2,3,0,0,4,1,3,2,4,2,2,3,0
+409,Esha,48,Female,Hindi,Nature,1,2,0,1,4,5,1,5,4,1,4,4,0
+410,Yash,34,Female,English,Nature,4,2,1,0,2,3,4,2,3,1,5,2,1
+411,Hari,31,Female,French,Reading,4,5,0,1,4,2,5,2,1,5,1,3,1
+412,Yash,22,Male,Hindi,Cooking,3,5,0,1,4,3,3,3,5,2,2,5,1
+413,Ravi,22,Male,Mandarin,Gaming,2,1,1,0,2,1,3,2,2,2,2,5,0
+414,Gita,16,Female,Japanese,Reading,4,5,0,0,5,5,5,3,5,2,2,4,0
+415,Pooja,15,Female,English,Sports,5,2,1,0,5,4,4,2,5,1,4,1,0
+416,Aakash,44,Female,Spanish,Art,4,2,0,0,2,2,2,5,1,1,4,1,0
+417,Hari,28,Male,Spanish,Reading,5,5,0,0,4,5,4,4,3,1,4,1,0
+418,Simran,36,Female,Russian,Music,5,5,0,0,3,4,3,4,5,3,5,1,0
+419,Esha,26,Male,French,Technology,3,1,0,1,2,5,1,3,3,4,4,4,1
+420,Neha,49,Male,Mandarin,Technology,2,4,0,0,1,1,2,4,3,3,1,4,1
+421,Qasim,41,Female,Russian,Technology,3,1,1,0,5,2,2,3,5,3,2,4,0
+422,Vikram,29,Male,Mandarin,Reading,2,3,1,0,5,2,3,2,3,2,4,4,1
+423,Ravi,18,Male,Japanese,Sports,1,5,1,1,4,3,4,1,4,3,2,2,0
+424,Neha,28,Female,Japanese,Cooking,3,3,1,1,5,5,2,2,1,4,1,1,1
+425,Om,21,Male,Russian,Sports,1,4,0,1,3,1,4,5,5,2,4,4,0
+426,Leena,25,Female,German,Cooking,5,1,0,0,1,5,4,5,2,1,3,5,1
+427,Pooja,37,Female,German,Gaming,2,3,1,1,5,2,1,2,5,4,5,4,0
+428,Simran,46,Female,Mandarin,Music,3,5,0,1,5,5,3,2,1,4,1,4,1
+429,Vikram,18,Female,English,Sports,5,2,1,0,2,2,2,4,1,3,5,5,1
+430,Vikram,17,Male,Hindi,Cooking,1,4,1,0,4,4,3,1,5,4,1,5,0
+431,Manoj,31,Female,Mandarin,Gaming,4,2,0,0,2,2,4,4,1,2,1,5,0
+432,Uma,18,Male,French,Nature,1,4,0,0,1,1,1,3,5,2,3,4,0
+433,Aakash,29,Male,Japanese,Traveling,3,5,1,0,3,4,3,1,4,5,3,1,0
+434,Esha,43,Male,Mandarin,Technology,5,4,0,1,3,3,5,2,4,4,3,2,0
+435,Aakash,49,Female,Russian,Cooking,1,3,1,1,4,2,5,2,4,5,1,2,0
+436,Esha,49,Male,Mandarin,Cooking,3,4,1,0,2,2,1,2,3,5,4,1,1
+437,Farhan,38,Female,Mandarin,Gaming,3,5,0,0,5,1,2,1,5,2,3,4,1
+438,Ravi,46,Female,Mandarin,Cooking,5,5,0,0,5,3,3,5,5,2,4,4,0
+439,Xena,47,Female,Hindi,Sports,4,4,0,0,4,5,2,5,4,5,5,5,1
+440,Ravi,20,Female,English,Traveling,5,1,0,1,4,4,4,4,4,2,4,5,1
+441,Esha,45,Male,Mandarin,Nature,3,5,1,0,2,1,1,2,5,1,1,4,1
+442,Bittu,42,Male,German,Traveling,3,2,1,0,1,4,1,3,3,3,5,5,0
+443,Uma,21,Male,Hindi,Reading,5,3,0,1,4,2,4,1,5,5,4,5,1
+444,Ravi,40,Female,Spanish,Nature,2,4,0,0,1,1,2,2,2,2,2,2,0
+445,Vikram,38,Female,Hindi,Reading,4,5,1,1,2,4,2,5,5,3,2,2,1
+446,Bittu,39,Female,English,Traveling,3,4,1,0,3,2,2,3,1,1,2,1,0
+447,Manoj,25,Male,Japanese,Cooking,4,1,1,1,4,5,2,1,3,4,5,3,0
+448,Kiran,38,Male,Mandarin,Traveling,3,1,1,1,1,3,3,3,1,1,5,2,0
+449,Tina,46,Male,Japanese,Technology,1,4,0,0,5,3,2,5,2,3,3,1,0
+450,Pooja,34,Female,English,Art,5,5,0,0,3,4,3,4,1,1,1,4,1
+451,Ravi,27,Male,Hindi,Gaming,3,5,1,0,3,1,5,4,3,3,4,1,1
+452,Esha,15,Male,Spanish,Traveling,1,4,1,1,4,3,5,1,2,3,2,3,0
+453,Xena,32,Male,English,Sports,5,5,1,1,3,1,2,2,1,2,3,3,0
+454,Yash,18,Female,German,Traveling,4,1,1,0,1,1,3,1,2,2,2,5,0
+455,Farhan,18,Male,German,Sports,3,3,0,1,4,4,1,1,4,2,3,1,0
+456,Manoj,44,Male,Japanese,Nature,2,3,1,0,5,5,2,3,5,3,4,5,0
+457,Manoj,23,Male,Russian,Music,5,3,1,0,4,5,4,3,1,3,1,3,0
+458,Gita,42,Male,Russian,Nature,3,2,0,0,2,4,1,4,5,1,1,4,1
+459,Deepak,49,Male,Hindi,Gaming,3,3,0,0,4,4,2,3,3,3,5,2,1
+460,Om,16,Male,Hindi,Reading,3,2,0,0,4,3,5,1,2,1,4,4,0
+461,Yash,27,Male,English,Traveling,2,4,1,0,4,5,4,5,4,4,5,5,0
+462,Tina,45,Female,German,Music,4,4,1,1,5,4,4,4,5,1,5,1,1
+463,Tina,25,Male,French,Sports,2,1,0,0,3,1,5,5,2,5,4,4,1
+464,Neha,23,Female,Russian,Nature,1,4,0,1,5,3,5,3,1,2,2,5,1
+465,Gita,15,Male,Hindi,Traveling,2,1,1,1,5,3,3,1,5,3,1,5,1
+466,Om,49,Male,Mandarin,Reading,3,2,1,1,3,5,3,1,3,3,3,4,0
+467,Kiran,19,Male,Japanese,Cooking,4,3,0,1,3,4,5,2,5,3,1,2,0
+468,Om,21,Female,German,Traveling,5,1,0,1,3,4,4,5,1,5,4,2,0
+469,Vikram,40,Female,Japanese,Nature,2,1,0,1,5,5,2,1,5,4,5,1,0
+470,Jatin,22,Female,Russian,Cooking,3,1,0,0,5,5,1,4,1,4,4,3,0
+471,Neha,17,Male,Japanese,Reading,3,4,0,0,1,3,3,4,2,1,4,1,0
+472,Isha,30,Female,Japanese,Technology,1,2,0,0,4,4,1,1,2,4,4,3,0
+473,Bittu,17,Female,German,Gaming,2,4,1,1,2,4,5,5,3,1,4,5,0
+474,Vikram,36,Male,Russian,Reading,1,2,1,0,5,3,1,2,5,3,4,2,1
+475,Neha,35,Male,Japanese,Sports,5,2,0,0,4,5,5,5,4,1,5,5,1
+476,Xena,48,Male,German,Art,2,4,1,1,3,3,2,5,1,4,3,3,0
+477,Ravi,42,Male,Hindi,Cooking,5,3,1,1,3,5,3,5,3,4,4,5,1
+478,Farhan,38,Male,English,Music,5,1,0,1,5,4,1,3,1,1,3,5,0
+479,Jatin,15,Female,Mandarin,Reading,3,5,1,1,4,4,1,5,2,2,1,3,1
+480,Tina,33,Female,Spanish,Art,1,1,0,1,2,5,1,1,1,1,1,4,1
+481,Chitra,30,Female,Japanese,Music,3,2,1,1,4,4,4,2,4,3,2,4,1
+482,Simran,45,Male,German,Sports,4,3,1,0,2,2,5,1,2,2,2,5,0
+483,Gita,19,Female,Spanish,Cooking,4,1,0,1,1,5,2,2,5,5,4,1,1
+484,Vikram,21,Female,Japanese,Traveling,1,5,1,0,3,4,5,1,2,3,4,3,1
+485,Xena,26,Male,Russian,Sports,5,5,0,0,3,2,5,3,2,1,4,4,1
+486,Jatin,41,Female,Russian,Reading,2,5,1,0,5,5,5,1,4,4,1,3,0
+487,Manoj,29,Male,Russian,Art,4,3,1,0,5,3,1,3,2,4,4,4,0
+488,Om,19,Male,Russian,Sports,3,3,0,1,5,5,5,4,4,2,2,2,1
+489,Yash,40,Female,Japanese,Technology,4,4,1,0,2,5,5,1,5,4,5,5,0
+490,Manoj,19,Female,Mandarin,Traveling,2,1,0,1,5,4,1,1,5,4,3,4,1
+491,Isha,22,Female,English,Technology,2,4,1,1,1,2,3,3,5,1,3,4,1
+492,Simran,38,Male,English,Art,2,3,1,0,2,5,4,3,3,4,1,1,0
+493,Kiran,19,Female,English,Cooking,1,1,0,0,2,3,3,5,5,1,4,1,0
+494,Simran,45,Male,Japanese,Music,4,3,1,1,2,5,2,5,5,5,5,4,0
+495,Wahid,21,Male,English,Cooking,3,4,1,1,1,5,5,4,3,3,4,3,0
+496,Hari,49,Female,Russian,Music,5,5,0,1,4,3,2,1,5,3,5,2,1
+497,Bittu,22,Female,German,Nature,5,4,0,1,5,3,3,5,5,3,1,3,0
+498,Tina,17,Male,Hindi,Music,2,3,0,0,3,4,4,5,4,1,2,5,0
+499,Manoj,36,Male,German,Nature,3,1,0,1,3,2,5,1,3,3,5,3,0
+500,Leena,43,Female,French,Sports,2,4,1,0,3,3,5,1,1,1,5,5,0
